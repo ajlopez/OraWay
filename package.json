@@ -1,8 +1,7 @@
 {
-  "name": "defiprot",
+  "name": "oraway",
   "version": "0.0.1",
-  "description": "DeFi Protocol",
-  "main": "index.js",
+  "description": "Oracle Gateway",
   "scripts": {
     "test": "truffle test",
     "compile": "truffle compile"
