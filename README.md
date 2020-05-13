@@ -10,6 +10,7 @@ Experimental Oracle Gateway for Ethereum and RSK blockchains
 - [Blockchain Oracles and RIF Gateways: Towards End-to-End Off-Chain Interoperability](https://usethebitcoin.com/blockchain-oracles-and-rif-gateways-towards-end-to-end-off-chain-interoper/)
 - [Blockchain Oracles: Off-Chain Interaction Through RIF Gateways](https://themerkle.com/blockchain-oracles-off-chain-interaction-through-rif-gateways/)
 - [Blockchain Oracles - The Key To Scalability And Interoperability](https://blockgeeks.com/guides/blockchain-oracles/)
+- [A First Look into DeFi Oracles](https://arxiv.org/pdf/2005.04377.pdf)
 
 ## LICENSE
 
